@@ -1,0 +1,110 @@
+---
+title: "Unlocking your Data Science Potential"
+subtitle: "Leveraging Psychology Skills for a Thriving Career in Data Analytics"
+author: "Mark Andrews / Department of Psychology"
+format: revealjs
+---
+
+
+## You're More Than a Psychology Graduate
+
+- Your three years of studying Psychology have equipped you with sophisticated data analysis skills that are highly valued across industries. 
+- From your modules in research methods and statistics, you've gained skills that companies and organizations actively seek.
+
+## Your Technical Skills Are Valuable
+
+During your degree, you've mastered:
+
+- Data cleaning and preparation
+- Data visualization
+- Hypothesis testing
+- Regression analysis
+- Survey design and analysis
+- Experimental design
+
+These are the skills that data analysts use daily in their work.
+
+## Real-World Applications
+
+Your skills directly translate to business problems:
+
+**What You've Done** → **Real-World Application**
+
+- Statistical tests → A/B testing for websites
+- Survey analysis → Customer satisfaction studies
+- Data visualization → Business intelligence dashboards
+- Experiment design & testing → Product performance analysis
+- Regression models → Sales forecasting
+
+## The R Advantage
+
+R is a powerful tool in the business world:
+
+- It is open source, powerful, widely used
+- Used extensively in data science and analytics across many industries
+- Valued for its ability to 
+  - clean complex messy data sets
+  - visualize data
+  - perform all possible statistical analyses
+  - do reproducible analyses
+
+## Career Paths Open to You
+
+Your combination of R programming and research skills qualifies you for starting roles such as:
+
+- Data Analyst 
+- Market Research Analyst 
+- Healthcare Data Analyst 
+- Business Intelligence Analyst 
+
+## What Makes You Stand Out
+
+Beyond technical skills, you have related strengths:
+
+- Understanding of human behavior
+- Experience interpreting complex data
+- Strong research methodology background
+- Experience with real-world data collection
+- Critical thinking and problem-solving skills
+- Ability to communicate complex findings
+
+## Next Steps?
+
+1. Highlight your statistical and technical expertise on your CV
+2. Create a portfolio of your R analysis projects (e.g. on GitHub)
+3. Explain your psychology research into business and other terms
+4. Network with data professionals on social media
+5. Create a academic/professional website (e.g. using Quarto in R)
+6. Apply for data analyst positions
+7. And keep upskilling
+
+## Further training?
+
+- Consider the new *MSc in Behavioural Data Science*!
+- We designed this primarily for psychology and social science graduates with
+  - Strong interests in **quantitative analysis** and a possible data science career.
+  - To enhance technical skills before starting a **PhD** or **professional research** role.
+
+
+## Broad Aims of the MSc
+
+- **Comprehensive Introduction to Advanced Data Analysis**
+  - Learn about advanced statistical modeling, machine learning, AI, Python, etc.
+- **Strong Emphasis on Psychological/Social Science data**
+  - Understand the domain behind the data
+- **Professional and Academic Preparedness**
+  - Develop independence, initiative, and **professional skills**.
+  - Build a portfolio demonstrating your analytical capabilities.
+
+## Unique Selling Point
+
+- **Integration of Data Science & Psychology**
+  - Cutting-edge data science tools with **theoretical insights**.
+  - Not just “how to analyze data,” but **why** the data behave the way they do.
+- **Career-ready portfolio**
+  - Showcase **diverse data projects** to future employers.
+  - Demonstrate **holistic** understanding of both data science and behavioral theory.
+  
+## Questions?
+
+- Send me an email: `mark.andrews@ntu.ac.uk`
